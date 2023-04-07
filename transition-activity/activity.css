@@ -1,1 +1,7 @@
-
+.btn {
+    background-color: ghostwhite;
+    border: none;
+    color: cornflowerblue;
+    opacity: 0.6;
+    transition: 0.2s;
+  }
